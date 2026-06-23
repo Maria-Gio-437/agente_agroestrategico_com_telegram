@@ -1,0 +1,9 @@
+# Ambientes Virtuais
+venv/
+.venv/
+env/  
+
+# Variáveis de Ambiente e Credenciais
+.env
+.env.local
+.env.*.local   
